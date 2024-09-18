@@ -16,6 +16,9 @@
 }
 
 .bookmark__icon {
-  fill: currentcolor;
-  width: 2em;
+  stroke: black;
+  fill: none;
+}
+.bookmark__icon--active {
+  fill: black;
 }
