@@ -8,3 +8,6 @@
 @import "./components/profile/profile.css";
 @import "./components/counter-list/counter-list.css";
 @import "./components/form/form.css";
+body {
+  color: green;
+}
